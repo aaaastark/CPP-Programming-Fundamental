@@ -6,23 +6,13 @@ void variables(){
 	cout<<"char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes"<<endl;
 	cout<<"string - stores text, such as \"Hello World\". String values are surrounded by double quotes"<<endl;
 	cout<<"bool - stores values with two states: true or false. There return type in the form of (1 or 0)"<<endl<<endl;
-	
-	// This cout is used for just show data_type_use_there.
-//	cout<<"int integer_number;\nstring string_name;\ndouble double_number;\nchar character_keyword;\nbool boolen_value;"<<endl<<endl;
-	
+		
 	int integer_number;
 	string string_name;
 	double double_number;
 	char character_keyword;
 	bool boolen_value;
 	
-	// This cout is used for just show data_type_use_there.
-//	cout<<"cout<<\"Enter a Integer_Number : \";"<<endl<<"cin>>integer_number;"<<endl<<"cout<<\"Integer_Number is \"<<integer_number<<endl;"<<endl;
-//	cout<<"cout<<\"Enter a String_Name : \";"<<endl<<"cin>>string_name;"<<endl<<"cout<<\"String_Name is \"<<string_name<<endl;"<<endl;
-//	cout<<"cout<<\"Enter a Double_Number : \";"<<endl<<"cin>>double_number;"<<endl<<"cout<<\"Double_Number is \"<<double_number<<endl;"<<endl;
-//	cout<<"cout<<\"Enter a Character_Keyword : \";"<<endl<<"cin>>character_keyword;"<<endl<<"cout<<\"Character_Keyword is \"<<character_keyword<<endl;"<<endl;
-//	cout<<"if(1==1){ boolen_value=true; } else{ boolen_value=false; }"<<endl<<"cout<<\"Boolen_Value is \"<<boolen_value<<endl;"<<endl<<endl<<endl;
-//	
 	///////////////////////////////  START	/////////////////////////////////////////
 	cout<<"\t\t\t\tInformation enter from User";
 	cout<<endl<<endl;
